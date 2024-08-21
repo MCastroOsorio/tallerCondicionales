@@ -2,19 +2,19 @@
 
 ###
 
-<p align="left">Este es mi taller de condicionales</p>
+<p align="left">This is my homework about conditional</p>
 
 ###
 
-<h2 align="left">Es mi primera vez creando un readme</h2>
+<h2 align="left">This is my first readme file</h2>
 
 ###
 
-<p align="left"><br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left"><br>📚 I'm currently learning web development<br>🎯 Goals: learning conditionals<br>
 
 ###
 
-<h2 align="left">Hecho con...</h2>
+<h2 align="left">Made with JS</h2>
 
 ###
 
