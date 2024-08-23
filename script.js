@@ -229,6 +229,6 @@ if(imc < 18.5){
 }  else if (imc >= 25 && imc <= 29.9){
     console.log('Sobrepeso')
 } else {
-    clasificacion = "Obesidad"; 
+    console.log ("Obesidad"); 
 } break;
 }

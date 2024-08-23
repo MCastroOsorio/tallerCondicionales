@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">This is my homework about conditional</p>
+<p align="left">This is my homework about conditionals</p>
 
 ###
 
